@@ -48,7 +48,7 @@ fbExec = (function(){
       }
       else {
         if (!dontQueue) {
-          ifInitQueue.push(fn);
+          onInitQueue.push(fn);
         }
         return false; //isInit
       }
