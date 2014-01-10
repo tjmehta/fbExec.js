@@ -241,3 +241,6 @@ This should be called when FB is known to be initialized (in window.fbAsyncInit 
 
 License
 Released under the MIT license.
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/tjmehta/fbexec.js/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
